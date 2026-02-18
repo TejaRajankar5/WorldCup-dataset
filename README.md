@@ -1,7 +1,7 @@
 
 
 # 🏏 T20 World Cup Match Analysis Dashboard
-![Project image](World_cup.jpg)
+![Project image](Wl.jpg)
 ## 📌 Project Overview
 
 This project delivers an **interactive analytical dashboard** for **T20 World Cup cricket data**, focusing on **team performance, run comparisons, match stages, venues, and winning trends**.
