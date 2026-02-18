@@ -20,6 +20,8 @@ This project is ideal for:
 
 ## 1️⃣ Team Performance & Comparison
 
+<img width="1655" height="849" alt="Screenshot 2026-01-22 011913" src="https://github.com/user-attachments/assets/11f6e2ca-8365-4ba7-881f-7d10794afe66" />
+
 ### 🔹 Team1 vs Team2 Run Comparison
 
 * Bar chart comparing **total runs scored by Team 1 and Team 2**
@@ -40,6 +42,8 @@ This project is ideal for:
 ---
 
 ## 2️⃣ Team Strength & Hierarchy Analysis
+
+<img width="1653" height="857" alt="Screenshot 2026-01-22 011930" src="https://github.com/user-attachments/assets/84d08c83-91b2-472e-982d-d0d0d4efc482" />
 
 ### 🔹 Group Teams into Strong vs Weak (Pie Chart)
 
